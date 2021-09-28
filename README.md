@@ -1,0 +1,1 @@
+# WAP-to-find-Sum-and-product-of-a-given-digit
